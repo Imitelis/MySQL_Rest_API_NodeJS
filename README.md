@@ -10,4 +10,4 @@ To make it work in your machine:
   3.  With VS Code go to "/MySQL_Rest_API_NodeJS" folder, configure your username and password in the "index.js" file
   4.  Create the database by calling the function 'createDatabase()' and within the same folder in terminal running "npm run start"
   5.  Similarly, connect the database by calling 'connectToDatabase()' and create some posts
-  6.  Visit the api routes by going ot 'localhost:3000/posts', 'localhost:3000/posts/2', 'localhost:3000/updatepost/1'
+  6.  Visit the api routes by going to 'localhost:3000/posts', 'localhost:3000/posts/2', 'localhost:3000/updatepost/1' and see the results
